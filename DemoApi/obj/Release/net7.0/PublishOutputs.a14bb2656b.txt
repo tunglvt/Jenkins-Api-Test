@@ -1,0 +1,7 @@
+C:\Users\TungLVT\RiderProjects\DemoApi\DemoApi\bin\Release\net7.0\publish\DemoApi.exe
+C:\Users\TungLVT\RiderProjects\DemoApi\DemoApi\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\TungLVT\RiderProjects\DemoApi\DemoApi\bin\Release\net7.0\publish\appsettings.json
+C:\Users\TungLVT\RiderProjects\DemoApi\DemoApi\bin\Release\net7.0\publish\DemoApi.dll
+C:\Users\TungLVT\RiderProjects\DemoApi\DemoApi\bin\Release\net7.0\publish\DemoApi.deps.json
+C:\Users\TungLVT\RiderProjects\DemoApi\DemoApi\bin\Release\net7.0\publish\DemoApi.runtimeconfig.json
+C:\Users\TungLVT\RiderProjects\DemoApi\DemoApi\bin\Release\net7.0\publish\DemoApi.pdb
